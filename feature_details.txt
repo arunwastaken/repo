@@ -1,0 +1,1 @@
+Modified feature: Authentication system will include OAuth support.
